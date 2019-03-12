@@ -1,6 +1,7 @@
 # words-loadmore
 
 Example Flutter list view with LoadMore.
+[![Watch the video](/home/dafinoer/Documents/mobile-project/word/firstapp.webm)
 
 ## Getting Started
 
